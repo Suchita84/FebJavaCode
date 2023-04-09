@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kools
+ *
+ */
+module GitProject {
+}
